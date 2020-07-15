@@ -97,11 +97,6 @@ p {
   text-align: left;
 }
 
-.contact-message {
-  width: 40%;
-  margin: auto;
-}
-
 .profile-icon {
   width: 25%;
   border-radius: 100%;
@@ -176,4 +171,6 @@ p {
 
 .contact-me {
   padding-bottom: 50px;
+  width: 50%;
+  margin: auto;
 }
